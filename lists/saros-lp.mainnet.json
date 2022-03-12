@@ -719,27 +719,6 @@
             }
         },
         {
-            "address": "B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt",
-            "symbol": "USDC-COW",
-            "name": "Saros USDC-COW Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
-                "underlyingTokens": [
-                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-                    "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-                ],
-                "pool": "BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
-                "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-                "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
-                "description": "Saros LP token between USD Coin and Cash Cow"
-            }
-        },
-        {
             "address": "3ot21g88Nm36N96UZnWZGUBJoj2Yj1ZWpvMiHNocWeZS",
             "symbol": "WOOF-SOL",
             "name": "Saros WOOF-SOL Saros LP",
@@ -758,6 +737,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/aWMskJeZIQhQPeHy",
                 "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
                 "description": "Saros LP token between WOOF Token and Solana"
+            }
+        },
+        {
+            "address": "B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt",
+            "symbol": "USDC-COW",
+            "name": "Saros USDC-COW Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
+                "underlyingTokens": [
+                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                    "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+                ],
+                "pool": "BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
+                "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+                "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
+                "description": "Saros LP token between USD Coin and Cash Cow"
             }
         },
         {
