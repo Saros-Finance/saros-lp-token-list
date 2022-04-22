@@ -21,27 +21,6 @@
         }
     },
     {
-        "address": "5kvBykCa3dTU2HVpikGuZ5gsuqrf7L1ywrdMBozh8Hj8",
-        "symbol": "SOL-USDC",
-        "name": "Saros SOL-USDC Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5kvBykCa3dTU2HVpikGuZ5gsuqrf7L1ywrdMBozh8Hj8/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/Djxfn7zWFxFqYgwesXfq8BeAirfXwfhQmNcCousXh7G7",
-            "underlyingTokens": [
-                "So11111111111111111111111111111111111111112",
-                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            ],
-            "pool": "Djxfn7zWFxFqYgwesXfq8BeAirfXwfhQmNcCousXh7G7",
-            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-            "description": "Saros LP token between Solana and USD Coin"
-        }
-    },
-    {
         "address": "9jzhzUQHc89fMYmKxjrZos3oRd8hqMdVaASPjAGxi9Yo",
         "symbol": "PRT-YPRT",
         "name": "Saros PRT-YPRT Saros LP",
@@ -60,6 +39,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
             "token1Img": "https://coin98.s3.amazonaws.com/8trXfrF6oqNplUAL",
             "description": "Saros LP token between Parrot Finance and Parrot Yield Token"
+        }
+    },
+    {
+        "address": "5kvBykCa3dTU2HVpikGuZ5gsuqrf7L1ywrdMBozh8Hj8",
+        "symbol": "SOL-USDC",
+        "name": "Saros SOL-USDC Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5kvBykCa3dTU2HVpikGuZ5gsuqrf7L1ywrdMBozh8Hj8/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/Djxfn7zWFxFqYgwesXfq8BeAirfXwfhQmNcCousXh7G7",
+            "underlyingTokens": [
+                "So11111111111111111111111111111111111111112",
+                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "pool": "Djxfn7zWFxFqYgwesXfq8BeAirfXwfhQmNcCousXh7G7",
+            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+            "description": "Saros LP token between Solana and USD Coin"
         }
     },
     {
@@ -735,6 +735,27 @@
         }
     },
     {
+        "address": "GhLYDvbuhZjDmDruk175HLjrrgx3tfRSYsqckS9z8yce",
+        "symbol": "C98-COW",
+        "name": "Saros C98-COW Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/GhLYDvbuhZjDmDruk175HLjrrgx3tfRSYsqckS9z8yce/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/JA6oPwviGAUm9uZ1KwWwP6pz6dqZ1JRnfjpxpqKQ9Rud",
+            "underlyingTokens": [
+                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+            ],
+            "pool": "JA6oPwviGAUm9uZ1KwWwP6pz6dqZ1JRnfjpxpqKQ9Rud",
+            "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
+            "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
+            "description": "Saros LP token between Coin98 and Cash Cow"
+        }
+    },
+    {
         "address": "BfXkArbrD4nzAfT57QiPj9X3Zvpwmtv2UbuhFBwZewwg",
         "symbol": "SOL-SLIM",
         "name": "Saros SOL-SLIM Saros LP",
@@ -795,27 +816,6 @@
             "token0Img": "https://coin98.s3.amazonaws.com/ZeF22sbSbeEnniAE",
             "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
             "description": "Saros LP token between Degen Dex and USD Coin"
-        }
-    },
-    {
-        "address": "GhLYDvbuhZjDmDruk175HLjrrgx3tfRSYsqckS9z8yce",
-        "symbol": "C98-COW",
-        "name": "Saros C98-COW Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/GhLYDvbuhZjDmDruk175HLjrrgx3tfRSYsqckS9z8yce/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/JA6oPwviGAUm9uZ1KwWwP6pz6dqZ1JRnfjpxpqKQ9Rud",
-            "underlyingTokens": [
-                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
-                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-            ],
-            "pool": "JA6oPwviGAUm9uZ1KwWwP6pz6dqZ1JRnfjpxpqKQ9Rud",
-            "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
-            "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
-            "description": "Saros LP token between Coin98 and Cash Cow"
         }
     },
     {
@@ -966,27 +966,6 @@
         }
     },
     {
-        "address": "4rDKcovqhsdfFM7MkhQCtGaL6wULjhezxxxaiKBxGy2i",
-        "symbol": "SCNSOL-CASH",
-        "name": "Saros SCNSOL-CASH Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/4rDKcovqhsdfFM7MkhQCtGaL6wULjhezxxxaiKBxGy2i/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/69vrcHBBX2sUJVYUv7iHuACBNVmfRpMSC8MfyTnsjPLG",
-            "underlyingTokens": [
-                "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-            ],
-            "pool": "69vrcHBBX2sUJVYUv7iHuACBNVmfRpMSC8MfyTnsjPLG",
-            "token0Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
-            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-            "description": "Saros LP token between Socean Staked Sol and Cashio Dollar"
-        }
-    },
-    {
         "address": "5csZtCiN3Rap6vk8xwoj8bhHb1rwzdXDtrAkKq1TGRp4",
         "symbol": "SONAR-CASH",
         "name": "Saros SONAR-CASH Saros LP",
@@ -1005,6 +984,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/07tzb1XQdCE9ztjc",
             "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
             "description": "Saros LP token between SonarWatch and Cashio Dollar"
+        }
+    },
+    {
+        "address": "4rDKcovqhsdfFM7MkhQCtGaL6wULjhezxxxaiKBxGy2i",
+        "symbol": "SCNSOL-CASH",
+        "name": "Saros SCNSOL-CASH Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/4rDKcovqhsdfFM7MkhQCtGaL6wULjhezxxxaiKBxGy2i/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/69vrcHBBX2sUJVYUv7iHuACBNVmfRpMSC8MfyTnsjPLG",
+            "underlyingTokens": [
+                "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+            ],
+            "pool": "69vrcHBBX2sUJVYUv7iHuACBNVmfRpMSC8MfyTnsjPLG",
+            "token0Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
+            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+            "description": "Saros LP token between Socean Staked Sol and Cashio Dollar"
         }
     },
     {
@@ -1218,27 +1218,6 @@
         }
     },
     {
-        "address": "G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb",
-        "symbol": "BOP-CASH",
-        "name": "Saros BOP-CASH Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
-            "underlyingTokens": [
-                "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
-                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-            ],
-            "pool": "4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
-            "token0Img": "https://coin98.s3.amazonaws.com/hIQgZftIV2Sc41Jt",
-            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-            "description": "Saros LP token between Boring Protocol and Cashio Dollar"
-        }
-    },
-    {
         "address": "BuLBJ5dZpR5jxGKRV1pSwtKdPLyoV2rdL9GzMsjsiRqo",
         "symbol": "PRISM-CASH",
         "name": "Saros PRISM-CASH Saros LP",
@@ -1257,6 +1236,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/U40VR9503l3sTVTP",
             "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
             "description": "Saros LP token between Prism and Cashio Dollar"
+        }
+    },
+    {
+        "address": "G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb",
+        "symbol": "BOP-CASH",
+        "name": "Saros BOP-CASH Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
+            "underlyingTokens": [
+                "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
+                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+            ],
+            "pool": "4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
+            "token0Img": "https://coin98.s3.amazonaws.com/hIQgZftIV2Sc41Jt",
+            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+            "description": "Saros LP token between Boring Protocol and Cashio Dollar"
         }
     },
     {
@@ -1302,27 +1302,6 @@
         }
     },
     {
-        "address": "CmASLVzAUSeRdKAjy1mNVoVnkeGvtHhGR6dyyxkiyqjD",
-        "symbol": "SOLX-SLIM",
-        "name": "Saros SOLX-SLIM Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CmASLVzAUSeRdKAjy1mNVoVnkeGvtHhGR6dyyxkiyqjD/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/A22iYdZDAmyRJ9uSfuoXPWYfEjvUcrWBucfWSZPWaWED",
-            "underlyingTokens": [
-                "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn",
-                "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
-            ],
-            "pool": "A22iYdZDAmyRJ9uSfuoXPWYfEjvUcrWBucfWSZPWaWED",
-            "token0Img": "https://coin98.s3.amazonaws.com/ZFS6dGNLnAnrt8up",
-            "token1Img": "https://coin98.s3.amazonaws.com/JEu6fN40nasoT7gv",
-            "description": "Saros LP token between Soldex and Solanium"
-        }
-    },
-    {
         "address": "HTM952dL8eXAXYMeWgCAm729YrSxnfwcrjtYNHL3WDwC",
         "symbol": "SNTR-CASH",
         "name": "Saros SNTR-CASH Saros LP",
@@ -1365,6 +1344,27 @@
         }
     },
     {
+        "address": "CmASLVzAUSeRdKAjy1mNVoVnkeGvtHhGR6dyyxkiyqjD",
+        "symbol": "SOLX-SLIM",
+        "name": "Saros SOLX-SLIM Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CmASLVzAUSeRdKAjy1mNVoVnkeGvtHhGR6dyyxkiyqjD/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/A22iYdZDAmyRJ9uSfuoXPWYfEjvUcrWBucfWSZPWaWED",
+            "underlyingTokens": [
+                "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn",
+                "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
+            ],
+            "pool": "A22iYdZDAmyRJ9uSfuoXPWYfEjvUcrWBucfWSZPWaWED",
+            "token0Img": "https://coin98.s3.amazonaws.com/ZFS6dGNLnAnrt8up",
+            "token1Img": "https://coin98.s3.amazonaws.com/JEu6fN40nasoT7gv",
+            "description": "Saros LP token between Soldex and Solanium"
+        }
+    },
+    {
         "address": "2AoPCx1Yc8cJB6V3ouMyPeVgFpMoQBA79qWwUFrK6Ud3",
         "symbol": "SRM-USDC",
         "name": "Saros SRM-USDC Saros LP",
@@ -1383,27 +1383,6 @@
             "token0Img": "https://coin98.s3.amazonaws.com/Sz0MHx1z5jfUYTQD",
             "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
             "description": "Saros LP token between Serum and USD Coin"
-        }
-    },
-    {
-        "address": "Dw3bNE8wr3UAUCjbsT4oEUYLn7ktrKAqd13EUCLhyc6E",
-        "symbol": "SOL-SDOGE",
-        "name": "Saros SOL-SDOGE Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Dw3bNE8wr3UAUCjbsT4oEUYLn7ktrKAqd13EUCLhyc6E/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/GS3jJmwiq2GxdJRUh8jhbxcm8bua6aRfc6BG4XCBnUHa",
-            "underlyingTokens": [
-                "So11111111111111111111111111111111111111112",
-                "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s"
-            ],
-            "pool": "GS3jJmwiq2GxdJRUh8jhbxcm8bua6aRfc6BG4XCBnUHa",
-            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "token1Img": "https://coin98.s3.amazonaws.com/BGDWO3wjLVLBjfjA",
-            "description": "Saros LP token between Solana and SolDoge"
         }
     },
     {
@@ -1446,6 +1425,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/JEu6fN40nasoT7gv",
             "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
             "description": "Saros LP token between Solanium and Cashio Dollar"
+        }
+    },
+    {
+        "address": "Dw3bNE8wr3UAUCjbsT4oEUYLn7ktrKAqd13EUCLhyc6E",
+        "symbol": "SOL-SDOGE",
+        "name": "Saros SOL-SDOGE Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Dw3bNE8wr3UAUCjbsT4oEUYLn7ktrKAqd13EUCLhyc6E/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/GS3jJmwiq2GxdJRUh8jhbxcm8bua6aRfc6BG4XCBnUHa",
+            "underlyingTokens": [
+                "So11111111111111111111111111111111111111112",
+                "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s"
+            ],
+            "pool": "GS3jJmwiq2GxdJRUh8jhbxcm8bua6aRfc6BG4XCBnUHa",
+            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "token1Img": "https://coin98.s3.amazonaws.com/BGDWO3wjLVLBjfjA",
+            "description": "Saros LP token between Solana and SolDoge"
         }
     },
     {
@@ -1533,27 +1533,6 @@
         }
     },
     {
-        "address": "equNCAGdAnvjQrYNdkRDo7mUeK3EhYTR9vKzeqTJEQK",
-        "symbol": "COW-SOL",
-        "name": "Saros COW-SOL Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/equNCAGdAnvjQrYNdkRDo7mUeK3EhYTR9vKzeqTJEQK/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/EwJWEnd4vUHTLRtQWGxzkwYpTbQkEbHUDyKVNdEWvNaC",
-            "underlyingTokens": [
-                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-                "So11111111111111111111111111111111111111112"
-            ],
-            "pool": "EwJWEnd4vUHTLRtQWGxzkwYpTbQkEbHUDyKVNdEWvNaC",
-            "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
-            "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "description": "Saros LP token between Cash Cow and Solana"
-        }
-    },
-    {
         "address": "2kxbv7aSt3ieDXPwTBc6SM9DwwxY9WtLqu5WRf2ZTYq8",
         "symbol": "1SOL-CASH",
         "name": "Saros 1SOL-CASH Saros LP",
@@ -1572,6 +1551,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/qs05XBhDAux1UIQH",
             "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
             "description": "Saros LP token between 1Sol and Cashio Dollar"
+        }
+    },
+    {
+        "address": "equNCAGdAnvjQrYNdkRDo7mUeK3EhYTR9vKzeqTJEQK",
+        "symbol": "COW-SOL",
+        "name": "Saros COW-SOL Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/equNCAGdAnvjQrYNdkRDo7mUeK3EhYTR9vKzeqTJEQK/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/EwJWEnd4vUHTLRtQWGxzkwYpTbQkEbHUDyKVNdEWvNaC",
+            "underlyingTokens": [
+                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+                "So11111111111111111111111111111111111111112"
+            ],
+            "pool": "EwJWEnd4vUHTLRtQWGxzkwYpTbQkEbHUDyKVNdEWvNaC",
+            "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
+            "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "description": "Saros LP token between Cash Cow and Solana"
         }
     },
     {
@@ -1596,27 +1596,6 @@
         }
     },
     {
-        "address": "2wtTWDJQtSoNr6SHUjUmi6NxhsM6BnKJ5w4akvRa5Vd9",
-        "symbol": "SOL-FIDA",
-        "name": "Saros SOL-FIDA Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/2wtTWDJQtSoNr6SHUjUmi6NxhsM6BnKJ5w4akvRa5Vd9/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/A3CGYQVeKgsFEB2XhQbtBWvCL7Kj8Z7yyRehZwUeoD4A",
-            "underlyingTokens": [
-                "So11111111111111111111111111111111111111112",
-                "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
-            ],
-            "pool": "A3CGYQVeKgsFEB2XhQbtBWvCL7Kj8Z7yyRehZwUeoD4A",
-            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "token1Img": "https://coin98.s3.amazonaws.com/rrb1gOgaFpJVeKDa",
-            "description": "Saros LP token between Solana and Bonfida"
-        }
-    },
-    {
         "address": "Fo3KZ9PFLSDfxBFfTPF7mUkyT9PjUpByMk8fVSq5HwBX",
         "symbol": "TORG-SOL",
         "name": "Saros TORG-SOL Saros LP",
@@ -1635,6 +1614,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/qoG8vcx3BH1wiq7k",
             "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
             "description": "Saros LP token between TORG and Solana"
+        }
+    },
+    {
+        "address": "2wtTWDJQtSoNr6SHUjUmi6NxhsM6BnKJ5w4akvRa5Vd9",
+        "symbol": "SOL-FIDA",
+        "name": "Saros SOL-FIDA Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/2wtTWDJQtSoNr6SHUjUmi6NxhsM6BnKJ5w4akvRa5Vd9/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/A3CGYQVeKgsFEB2XhQbtBWvCL7Kj8Z7yyRehZwUeoD4A",
+            "underlyingTokens": [
+                "So11111111111111111111111111111111111111112",
+                "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
+            ],
+            "pool": "A3CGYQVeKgsFEB2XhQbtBWvCL7Kj8Z7yyRehZwUeoD4A",
+            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "token1Img": "https://coin98.s3.amazonaws.com/rrb1gOgaFpJVeKDa",
+            "description": "Saros LP token between Solana and Bonfida"
         }
     },
     {
@@ -1743,27 +1743,6 @@
         }
     },
     {
-        "address": "8W29ETjHXTWBgn41g7s6ZH7xDTYwDsjdLTsgYzZ3xsH6",
-        "symbol": "SOL-SCNSOL",
-        "name": "Saros SOL-SCNSOL Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/8W29ETjHXTWBgn41g7s6ZH7xDTYwDsjdLTsgYzZ3xsH6/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/BtdUQexPAD3HFn6SY75buW2zBJ82odW9HHGQp4UCKAEo",
-            "underlyingTokens": [
-                "So11111111111111111111111111111111111111112",
-                "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
-            ],
-            "pool": "BtdUQexPAD3HFn6SY75buW2zBJ82odW9HHGQp4UCKAEo",
-            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "token1Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
-            "description": "Saros LP token between Solana and Socean Staked Sol"
-        }
-    },
-    {
         "address": "7qxeidDWDz861GpZtDwow564sT3VTDeLr35nLZkFbioc",
         "symbol": "USDC-SWOLE",
         "name": "Saros USDC-SWOLE Saros LP",
@@ -1782,6 +1761,27 @@
             "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
             "token1Img": "https://coin98.s3.amazonaws.com/xuVI5lhjWmT9qhT0",
             "description": "Saros LP token between USD Coin and Swole Doge"
+        }
+    },
+    {
+        "address": "8W29ETjHXTWBgn41g7s6ZH7xDTYwDsjdLTsgYzZ3xsH6",
+        "symbol": "SOL-SCNSOL",
+        "name": "Saros SOL-SCNSOL Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/8W29ETjHXTWBgn41g7s6ZH7xDTYwDsjdLTsgYzZ3xsH6/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/BtdUQexPAD3HFn6SY75buW2zBJ82odW9HHGQp4UCKAEo",
+            "underlyingTokens": [
+                "So11111111111111111111111111111111111111112",
+                "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
+            ],
+            "pool": "BtdUQexPAD3HFn6SY75buW2zBJ82odW9HHGQp4UCKAEo",
+            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "token1Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
+            "description": "Saros LP token between Solana and Socean Staked Sol"
         }
     },
     {
@@ -2310,27 +2310,6 @@
         }
     },
     {
-        "address": "DUM2ntQWs8SU6KaXVavkyCZ5m9vXM32JJcsVKk8hHoAR",
-        "symbol": "COW-SOL",
-        "name": "Saros COW-SOL Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/DUM2ntQWs8SU6KaXVavkyCZ5m9vXM32JJcsVKk8hHoAR/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/9LqjZ3z6ci5JFtwRTxRtqWJGwBRkAxzS3G2kGy9Uui1G",
-            "underlyingTokens": [
-                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-                "So11111111111111111111111111111111111111112"
-            ],
-            "pool": "9LqjZ3z6ci5JFtwRTxRtqWJGwBRkAxzS3G2kGy9Uui1G",
-            "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
-            "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "description": "Saros LP token between Cash Cow and Solana"
-        }
-    },
-    {
         "address": "FLtr7uVBKGHVVse13UB6gbnfvCTuWwAAcgprJFTGkdm1",
         "symbol": "SOLR-SOL",
         "name": "Saros SOLR-SOL Saros LP",
@@ -2349,6 +2328,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/fAtJtUysNYGZrjrQ",
             "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
             "description": "Saros LP token between SolRazr and Solana"
+        }
+    },
+    {
+        "address": "DUM2ntQWs8SU6KaXVavkyCZ5m9vXM32JJcsVKk8hHoAR",
+        "symbol": "COW-SOL",
+        "name": "Saros COW-SOL Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/DUM2ntQWs8SU6KaXVavkyCZ5m9vXM32JJcsVKk8hHoAR/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/9LqjZ3z6ci5JFtwRTxRtqWJGwBRkAxzS3G2kGy9Uui1G",
+            "underlyingTokens": [
+                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+                "So11111111111111111111111111111111111111112"
+            ],
+            "pool": "9LqjZ3z6ci5JFtwRTxRtqWJGwBRkAxzS3G2kGy9Uui1G",
+            "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
+            "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "description": "Saros LP token between Cash Cow and Solana"
         }
     },
     {
