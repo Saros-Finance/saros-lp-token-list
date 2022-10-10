@@ -147,27 +147,6 @@
         }
     },
     {
-        "address": "3A4Kx8hrHPgoAd4NFDZ91QXzFQzr5iTAEqGL5c3LkCbv",
-        "symbol": "SOL-C98",
-        "name": "Saros SOL-C98 Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3A4Kx8hrHPgoAd4NFDZ91QXzFQzr5iTAEqGL5c3LkCbv/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/2hgQahX8WRn4QYNrp1xsyAvdhgYKk1yRF4b8gXwaVaZK",
-            "underlyingTokens": [
-                "So11111111111111111111111111111111111111112",
-                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
-            ],
-            "pool": "2hgQahX8WRn4QYNrp1xsyAvdhgYKk1yRF4b8gXwaVaZK",
-            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-            "token1Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
-            "description": "Saros LP token between Solana and Coin98"
-        }
-    },
-    {
         "address": "8ZfL1nagDURBz9gUFLvXPaNfdk8GBD9utVWYg1hHZ3hL",
         "symbol": "HDG-CUSD",
         "name": "Saros HDG-CUSD Saros LP",
@@ -186,6 +165,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/kOM3sdX54SQqXh0M",
             "token1Img": "https://coin98.s3.amazonaws.com/wZgE2aqSqG9zVPDC",
             "description": "Saros LP token between Hedge Protocol and Coin98 Dollar"
+        }
+    },
+    {
+        "address": "3A4Kx8hrHPgoAd4NFDZ91QXzFQzr5iTAEqGL5c3LkCbv",
+        "symbol": "SOL-C98",
+        "name": "Saros SOL-C98 Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3A4Kx8hrHPgoAd4NFDZ91QXzFQzr5iTAEqGL5c3LkCbv/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/2hgQahX8WRn4QYNrp1xsyAvdhgYKk1yRF4b8gXwaVaZK",
+            "underlyingTokens": [
+                "So11111111111111111111111111111111111111112",
+                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
+            ],
+            "pool": "2hgQahX8WRn4QYNrp1xsyAvdhgYKk1yRF4b8gXwaVaZK",
+            "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+            "token1Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
+            "description": "Saros LP token between Solana and Coin98"
         }
     },
     {
@@ -1827,6 +1827,27 @@
         }
     },
     {
+        "address": "bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6",
+        "symbol": "DFL-CASH",
+        "name": "Saros DFL-CASH Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/HeiZLEw6rX21FUYztdxMXrCDfUMwhsSgDRXJCCsksZs1",
+            "underlyingTokens": [
+                "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
+                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+            ],
+            "pool": "HeiZLEw6rX21FUYztdxMXrCDfUMwhsSgDRXJCCsksZs1",
+            "token0Img": "https://coin98.s3.amazonaws.com/mat2XbBJwuOGvOKx",
+            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+            "description": "Saros LP token between DeFi Land and Cashio Dollar"
+        }
+    },
+    {
         "address": "BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ",
         "symbol": "IVN-CASH",
         "name": "Saros IVN-CASH Saros LP",
@@ -1950,27 +1971,6 @@
             "token0Img": "https://coin98.s3.amazonaws.com/1m96nvHsAKBAXqVY",
             "token1Img": "https://coin98.s3.amazonaws.com/nOS5ZjOD4TO3WDOR",
             "description": "Saros LP token between Hubble and USDH"
-        }
-    },
-    {
-        "address": "bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6",
-        "symbol": "DFL-CASH",
-        "name": "Saros DFL-CASH Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/HeiZLEw6rX21FUYztdxMXrCDfUMwhsSgDRXJCCsksZs1",
-            "underlyingTokens": [
-                "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
-                "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-            ],
-            "pool": "HeiZLEw6rX21FUYztdxMXrCDfUMwhsSgDRXJCCsksZs1",
-            "token0Img": "https://coin98.s3.amazonaws.com/mat2XbBJwuOGvOKx",
-            "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-            "description": "Saros LP token between DeFi Land and Cashio Dollar"
         }
     },
     {
