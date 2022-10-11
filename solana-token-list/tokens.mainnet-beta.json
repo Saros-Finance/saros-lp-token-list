@@ -1134,27 +1134,6 @@
         }
     },
     {
-        "address": "B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt",
-        "symbol": "USDC-COW",
-        "name": "Saros USDC-COW Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
-            "underlyingTokens": [
-                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-            ],
-            "pool": "BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
-            "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-            "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
-            "description": "Saros LP token between USD Coin and Cash Cow"
-        }
-    },
-    {
         "address": "H7ABLHKbbs7AX3bCEhjNH8cNHh89QatdUD9bb4hwnhWA",
         "symbol": "C98-UST",
         "name": "Saros C98-UST Saros LP",
@@ -1173,6 +1152,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
             "token1Img": "https://coin98.s3.amazonaws.com/djlr6HveG96yRzLF",
             "description": "Saros LP token between Coin98 and TerraUSD (Wormhole)"
+        }
+    },
+    {
+        "address": "B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt",
+        "symbol": "USDC-COW",
+        "name": "Saros USDC-COW Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/B7PNy6gx5DePDTvp1fCfiQj2MtWekkocZgCeBnq26fBt/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
+            "underlyingTokens": [
+                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+            ],
+            "pool": "BfbCwcqewECvN5ftoYRJVnFcsiDA6S3Zgtht8F6H5FM6",
+            "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+            "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
+            "description": "Saros LP token between USD Coin and Cash Cow"
         }
     },
     {
