@@ -1302,6 +1302,27 @@
         }
     },
     {
+        "address": "3o62rXbvF3MrDvDmmDiUPEggp3beFFFnYgmFGUJeYCrW",
+        "symbol": "DEGN-USDC",
+        "name": "Saros DEGN-USDC Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3o62rXbvF3MrDvDmmDiUPEggp3beFFFnYgmFGUJeYCrW/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/4izYBCX7o8KnUf9zuPdh28dsEJ6T4bk17SWKnMzwpb1p",
+            "underlyingTokens": [
+                "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
+                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "pool": "4izYBCX7o8KnUf9zuPdh28dsEJ6T4bk17SWKnMzwpb1p",
+            "token0Img": "https://coin98.s3.amazonaws.com/ZeF22sbSbeEnniAE",
+            "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+            "description": "Saros LP token between Degen Dex and USD Coin"
+        }
+    },
+    {
         "address": "4otCenccCr7qbjDNCKDydpUJMoih9rzZopeKZ1Ai7Y4k",
         "symbol": "MEAN-USDC",
         "name": "Saros MEAN-USDC Saros LP",
@@ -1341,27 +1362,6 @@
             "token0Img": "https://coin98.s3.amazonaws.com/rLFUrfSUAYOeqCfA",
             "token1Img": "https://coin98.s3.amazonaws.com/nOS5ZjOD4TO3WDOR",
             "description": "Saros LP token between Lido Staked SOL and USDH"
-        }
-    },
-    {
-        "address": "3o62rXbvF3MrDvDmmDiUPEggp3beFFFnYgmFGUJeYCrW",
-        "symbol": "DEGN-USDC",
-        "name": "Saros DEGN-USDC Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3o62rXbvF3MrDvDmmDiUPEggp3beFFFnYgmFGUJeYCrW/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/4izYBCX7o8KnUf9zuPdh28dsEJ6T4bk17SWKnMzwpb1p",
-            "underlyingTokens": [
-                "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
-                "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            ],
-            "pool": "4izYBCX7o8KnUf9zuPdh28dsEJ6T4bk17SWKnMzwpb1p",
-            "token0Img": "https://coin98.s3.amazonaws.com/ZeF22sbSbeEnniAE",
-            "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-            "description": "Saros LP token between Degen Dex and USD Coin"
         }
     },
     {
@@ -2730,27 +2730,6 @@
         }
     },
     {
-        "address": "EBuyrKTsEAdzoFNYPX42miZf3y7Kz2JucxRSsyDrhCsG",
-        "symbol": "BNB-C98",
-        "name": "Saros BNB-C98 Saros LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/EBuyrKTsEAdzoFNYPX42miZf3y7Kz2JucxRSsyDrhCsG/icon.png",
-        "decimals": 2,
-        "chainId": 101,
-        "extensions": {
-            "twitter": "https://twitter.com/saros_finance",
-            "source": "saros",
-            "website": "https://saros.finance/pool/9DPf8FvuEczFhKEq1t4PkQyNyYP2y1s4S6868JLrVB4U",
-            "underlyingTokens": [
-                "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
-                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
-            ],
-            "pool": "9DPf8FvuEczFhKEq1t4PkQyNyYP2y1s4S6868JLrVB4U",
-            "token0Img": "https://coin98.s3.amazonaws.com/hbHLTS43O7GKx8Bz",
-            "token1Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
-            "description": "Saros LP token between Binance Coin (Portal) and Coin98"
-        }
-    },
-    {
         "address": "8W29ETjHXTWBgn41g7s6ZH7xDTYwDsjdLTsgYzZ3xsH6",
         "symbol": "SOL-SCNSOL",
         "name": "Saros SOL-SCNSOL Saros LP",
@@ -2769,6 +2748,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
             "token1Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
             "description": "Saros LP token between Solana and Socean Staked Sol"
+        }
+    },
+    {
+        "address": "EBuyrKTsEAdzoFNYPX42miZf3y7Kz2JucxRSsyDrhCsG",
+        "symbol": "BNB-C98",
+        "name": "Saros BNB-C98 Saros LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/EBuyrKTsEAdzoFNYPX42miZf3y7Kz2JucxRSsyDrhCsG/icon.png",
+        "decimals": 2,
+        "chainId": 101,
+        "extensions": {
+            "twitter": "https://twitter.com/saros_finance",
+            "source": "saros",
+            "website": "https://saros.finance/pool/9DPf8FvuEczFhKEq1t4PkQyNyYP2y1s4S6868JLrVB4U",
+            "underlyingTokens": [
+                "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+                "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
+            ],
+            "pool": "9DPf8FvuEczFhKEq1t4PkQyNyYP2y1s4S6868JLrVB4U",
+            "token0Img": "https://coin98.s3.amazonaws.com/hbHLTS43O7GKx8Bz",
+            "token1Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
+            "description": "Saros LP token between Binance Coin (Portal) and Coin98"
         }
     },
     {
