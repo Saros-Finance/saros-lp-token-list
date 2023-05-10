@@ -1202,27 +1202,6 @@
             }
         },
         {
-            "address": "H7ABLHKbbs7AX3bCEhjNH8cNHh89QatdUD9bb4hwnhWA",
-            "symbol": "C98-UST",
-            "name": "Saros C98-UST Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/H7ABLHKbbs7AX3bCEhjNH8cNHh89QatdUD9bb4hwnhWA/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/Gdj9MUytV3XgLt2YLyayZBtdUpK5wjuGcdHN6DEeeM9X",
-                "underlyingTokens": [
-                    "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
-                    "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
-                ],
-                "pool": "Gdj9MUytV3XgLt2YLyayZBtdUpK5wjuGcdHN6DEeeM9X",
-                "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
-                "token1Img": "https://coin98.s3.amazonaws.com/djlr6HveG96yRzLF",
-                "description": "Saros LP token between Coin98 and TerraUSD (Wormhole)"
-            }
-        },
-        {
             "address": "Eu4fHrVdsnDTgKdPUHNKBVDH334J7VC4nvEw6tmVUrDo",
             "symbol": "PSY-C98",
             "name": "Saros PSY-C98 Saros LP",
@@ -1244,24 +1223,24 @@
             }
         },
         {
-            "address": "5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9",
-            "symbol": "ARB-UST",
-            "name": "Saros ARB-UST Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9/icon.png",
+            "address": "H7ABLHKbbs7AX3bCEhjNH8cNHh89QatdUD9bb4hwnhWA",
+            "symbol": "C98-UST",
+            "name": "Saros C98-UST Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/H7ABLHKbbs7AX3bCEhjNH8cNHh89QatdUD9bb4hwnhWA/icon.png",
             "decimals": 2,
             "chainId": 101,
             "extensions": {
                 "twitter": "https://twitter.com/saros_finance",
                 "source": "saros",
-                "website": "https://saros.finance/pool/HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
+                "website": "https://saros.finance/pool/Gdj9MUytV3XgLt2YLyayZBtdUpK5wjuGcdHN6DEeeM9X",
                 "underlyingTokens": [
-                    "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+                    "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
                     "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
                 ],
-                "pool": "HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
-                "token0Img": "https://coin98.s3.amazonaws.com/7ndMRDzHVBDp4qgm",
+                "pool": "Gdj9MUytV3XgLt2YLyayZBtdUpK5wjuGcdHN6DEeeM9X",
+                "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
                 "token1Img": "https://coin98.s3.amazonaws.com/djlr6HveG96yRzLF",
-                "description": "Saros LP token between ARB Protocol and TerraUSD (Wormhole)"
+                "description": "Saros LP token between Coin98 and TerraUSD (Wormhole)"
             }
         },
         {
@@ -1283,6 +1262,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/4XP4kc0yZ1HYmHdp",
                 "token1Img": "https://coin98.s3.amazonaws.com/nOS5ZjOD4TO3WDOR",
                 "description": "Saros LP token between Parrot Finance and USDH"
+            }
+        },
+        {
+            "address": "5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9",
+            "symbol": "ARB-UST",
+            "name": "Saros ARB-UST Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
+                "underlyingTokens": [
+                    "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+                    "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+                ],
+                "pool": "HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
+                "token0Img": "https://coin98.s3.amazonaws.com/7ndMRDzHVBDp4qgm",
+                "token1Img": "https://coin98.s3.amazonaws.com/djlr6HveG96yRzLF",
+                "description": "Saros LP token between ARB Protocol and TerraUSD (Wormhole)"
             }
         },
         {
@@ -1874,27 +1874,6 @@
             }
         },
         {
-            "address": "Exu6AFLCSuUEnJsY3qLLCpPReksvQKX658fWdiGzeG8y",
-            "symbol": "USDC-FIDA",
-            "name": "Saros USDC-FIDA Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Exu6AFLCSuUEnJsY3qLLCpPReksvQKX658fWdiGzeG8y/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/2xWTkyD4R27LqB3hfs3dGEjZNaxhB995dx3fRwW4UAvv",
-                "underlyingTokens": [
-                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-                    "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
-                ],
-                "pool": "2xWTkyD4R27LqB3hfs3dGEjZNaxhB995dx3fRwW4UAvv",
-                "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-                "token1Img": "https://coin98.s3.amazonaws.com/rrb1gOgaFpJVeKDa",
-                "description": "Saros LP token between USD Coin and Bonfida"
-            }
-        },
-        {
             "address": "GYW2mKwJRHMZxC6AccKYmRbnqGnhA6gi5PW9bZsUTm1D",
             "symbol": "SLND-CASH",
             "name": "Saros SLND-CASH Saros LP",
@@ -1913,6 +1892,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/I8GeFWsOmJnxZcA9",
                 "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
                 "description": "Saros LP token between Solend and Cashio Dollar"
+            }
+        },
+        {
+            "address": "Exu6AFLCSuUEnJsY3qLLCpPReksvQKX658fWdiGzeG8y",
+            "symbol": "USDC-FIDA",
+            "name": "Saros USDC-FIDA Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Exu6AFLCSuUEnJsY3qLLCpPReksvQKX658fWdiGzeG8y/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/2xWTkyD4R27LqB3hfs3dGEjZNaxhB995dx3fRwW4UAvv",
+                "underlyingTokens": [
+                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                    "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
+                ],
+                "pool": "2xWTkyD4R27LqB3hfs3dGEjZNaxhB995dx3fRwW4UAvv",
+                "token0Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+                "token1Img": "https://coin98.s3.amazonaws.com/rrb1gOgaFpJVeKDa",
+                "description": "Saros LP token between USD Coin and Bonfida"
             }
         },
         {
@@ -2021,27 +2021,6 @@
             }
         },
         {
-            "address": "BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ",
-            "symbol": "IVN-CASH",
-            "name": "Saros IVN-CASH Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/9QY6LXhi1DDNLjGnRxnAgDHyJK2GiuajmKAXoR8yP3gy",
-                "underlyingTokens": [
-                    "iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a",
-                    "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-                ],
-                "pool": "9QY6LXhi1DDNLjGnRxnAgDHyJK2GiuajmKAXoR8yP3gy",
-                "token0Img": "https://coin98.s3.amazonaws.com/2pkZW8LDNirEbvnz",
-                "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-                "description": "Saros LP token between Investin and Cashio Dollar"
-            }
-        },
-        {
             "address": "5nnjnjQSwpnQPgQdm1moTgm9McamtTMK5BwFxuAY4hsQ",
             "symbol": "GMT-USDH",
             "name": "Saros GMT-USDH Saros LP",
@@ -2060,6 +2039,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/GHDonSMY2ZlT1oh8",
                 "token1Img": "https://coin98.s3.amazonaws.com/nOS5ZjOD4TO3WDOR",
                 "description": "Saros LP token between STEPN and USDH"
+            }
+        },
+        {
+            "address": "BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ",
+            "symbol": "IVN-CASH",
+            "name": "Saros IVN-CASH Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/9QY6LXhi1DDNLjGnRxnAgDHyJK2GiuajmKAXoR8yP3gy",
+                "underlyingTokens": [
+                    "iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a",
+                    "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+                ],
+                "pool": "9QY6LXhi1DDNLjGnRxnAgDHyJK2GiuajmKAXoR8yP3gy",
+                "token0Img": "https://coin98.s3.amazonaws.com/2pkZW8LDNirEbvnz",
+                "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+                "description": "Saros LP token between Investin and Cashio Dollar"
             }
         },
         {
@@ -2084,27 +2084,6 @@
             }
         },
         {
-            "address": "3FHdoFHDnJzKAbicpstvF1fRoW1iqNBxGRc4uzeMj4R5",
-            "symbol": "SRM-SOL",
-            "name": "Saros SRM-SOL Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3FHdoFHDnJzKAbicpstvF1fRoW1iqNBxGRc4uzeMj4R5/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/HstrwYwhQcUawV5x9Xfc8gZUaL1zBV8D5XYRMt2UeZQJ",
-                "underlyingTokens": [
-                    "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-                    "So11111111111111111111111111111111111111112"
-                ],
-                "pool": "HstrwYwhQcUawV5x9Xfc8gZUaL1zBV8D5XYRMt2UeZQJ",
-                "token0Img": "https://coin98.s3.amazonaws.com/Sz0MHx1z5jfUYTQD",
-                "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
-                "description": "Saros LP token between Serum and Solana"
-            }
-        },
-        {
             "address": "7KpXQsPDS3h6E9r8HHFgvCR8Dhw64SdrXf13z3sfHhYK",
             "symbol": "USDT-ETH",
             "name": "Saros USDT-ETH Saros LP",
@@ -2123,6 +2102,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/JmjG3D38UVDYL44S",
                 "token1Img": "https://coin98.s3-ap-southeast-1.amazonaws.com/Coin/ethActive2.png",
                 "description": "Saros LP token between Tether and Wrapped Ethereum"
+            }
+        },
+        {
+            "address": "3FHdoFHDnJzKAbicpstvF1fRoW1iqNBxGRc4uzeMj4R5",
+            "symbol": "SRM-SOL",
+            "name": "Saros SRM-SOL Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3FHdoFHDnJzKAbicpstvF1fRoW1iqNBxGRc4uzeMj4R5/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/HstrwYwhQcUawV5x9Xfc8gZUaL1zBV8D5XYRMt2UeZQJ",
+                "underlyingTokens": [
+                    "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+                    "So11111111111111111111111111111111111111112"
+                ],
+                "pool": "HstrwYwhQcUawV5x9Xfc8gZUaL1zBV8D5XYRMt2UeZQJ",
+                "token0Img": "https://coin98.s3.amazonaws.com/Sz0MHx1z5jfUYTQD",
+                "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+                "description": "Saros LP token between Serum and Solana"
             }
         },
         {
@@ -2420,27 +2420,6 @@
             }
         },
         {
-            "address": "G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb",
-            "symbol": "BOP-CASH",
-            "name": "Saros BOP-CASH Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
-                "underlyingTokens": [
-                    "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
-                    "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-                ],
-                "pool": "4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
-                "token0Img": "https://coin98.s3.amazonaws.com/hIQgZftIV2Sc41Jt",
-                "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-                "description": "Saros LP token between Boring Protocol and Cashio Dollar"
-            }
-        },
-        {
             "address": "2wtTWDJQtSoNr6SHUjUmi6NxhsM6BnKJ5w4akvRa5Vd9",
             "symbol": "SOL-FIDA",
             "name": "Saros SOL-FIDA Saros LP",
@@ -2588,24 +2567,24 @@
             }
         },
         {
-            "address": "HrXupcTFXv8PJ4yDVg9d2Sj7RCUCTNjVcCeDi6d7uczy",
-            "symbol": "1SP-USDC",
-            "name": "Saros 1SP-USDC Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/HrXupcTFXv8PJ4yDVg9d2Sj7RCUCTNjVcCeDi6d7uczy/icon.png",
+            "address": "G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb",
+            "symbol": "BOP-CASH",
+            "name": "Saros BOP-CASH Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/G81sj4JBCbBk4HqxQXAxYHYKTjTSzmdAE2SQtqqoQAHb/icon.png",
             "decimals": 2,
             "chainId": 101,
             "extensions": {
                 "twitter": "https://twitter.com/saros_finance",
                 "source": "saros",
-                "website": "https://saros.finance/pool/6d1hVZZNXn1EXgcDBEVEDD1JaYFSq3U8U5HjDJKScKNY",
+                "website": "https://saros.finance/pool/4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
                 "underlyingTokens": [
-                    "2zzC22UBgJGCYPdFyo7GDwz7YHq5SozJc1nnBqLU8oZb",
-                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+                    "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
+                    "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
                 ],
-                "pool": "6d1hVZZNXn1EXgcDBEVEDD1JaYFSq3U8U5HjDJKScKNY",
-                "token0Img": "https://coin98.s3.amazonaws.com/kwWp10Ke4p2IeLp8",
-                "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-                "description": "Saros LP token between Onespace and USD Coin"
+                "pool": "4SeskZV7cskBvJiPxx7KU5VC6LW1AzxdehTsXc7gJ7WL",
+                "token0Img": "https://coin98.s3.amazonaws.com/hIQgZftIV2Sc41Jt",
+                "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+                "description": "Saros LP token between Boring Protocol and Cashio Dollar"
             }
         },
         {
@@ -2627,6 +2606,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
                 "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
                 "description": "Saros LP token between Synthetify Token and Cashio Dollar"
+            }
+        },
+        {
+            "address": "HrXupcTFXv8PJ4yDVg9d2Sj7RCUCTNjVcCeDi6d7uczy",
+            "symbol": "1SP-USDC",
+            "name": "Saros 1SP-USDC Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/HrXupcTFXv8PJ4yDVg9d2Sj7RCUCTNjVcCeDi6d7uczy/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/6d1hVZZNXn1EXgcDBEVEDD1JaYFSq3U8U5HjDJKScKNY",
+                "underlyingTokens": [
+                    "2zzC22UBgJGCYPdFyo7GDwz7YHq5SozJc1nnBqLU8oZb",
+                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+                ],
+                "pool": "6d1hVZZNXn1EXgcDBEVEDD1JaYFSq3U8U5HjDJKScKNY",
+                "token0Img": "https://coin98.s3.amazonaws.com/kwWp10Ke4p2IeLp8",
+                "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+                "description": "Saros LP token between Onespace and USD Coin"
             }
         },
         {
@@ -3197,27 +3197,6 @@
             }
         },
         {
-            "address": "2AoPCx1Yc8cJB6V3ouMyPeVgFpMoQBA79qWwUFrK6Ud3",
-            "symbol": "SRM-USDC",
-            "name": "Saros SRM-USDC Saros LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/2AoPCx1Yc8cJB6V3ouMyPeVgFpMoQBA79qWwUFrK6Ud3/icon.png",
-            "decimals": 2,
-            "chainId": 101,
-            "extensions": {
-                "twitter": "https://twitter.com/saros_finance",
-                "source": "saros",
-                "website": "https://saros.finance/pool/EES7FrujZo64YD4Y1k64m1sLk8nmdH2NT8tcvrnX8gjN",
-                "underlyingTokens": [
-                    "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-                ],
-                "pool": "EES7FrujZo64YD4Y1k64m1sLk8nmdH2NT8tcvrnX8gjN",
-                "token0Img": "https://coin98.s3.amazonaws.com/Sz0MHx1z5jfUYTQD",
-                "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
-                "description": "Saros LP token between Serum and USD Coin"
-            }
-        },
-        {
             "address": "DERQgbogwgGLpJGaMCjDw1yDZnsBjdTFXFcCfpmun7JN",
             "symbol": "POLE-SOL",
             "name": "Saros POLE-SOL Saros LP",
@@ -3236,6 +3215,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di",
                 "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
                 "description": "Saros LP token between Pole Aggregator Governance and Solana"
+            }
+        },
+        {
+            "address": "2AoPCx1Yc8cJB6V3ouMyPeVgFpMoQBA79qWwUFrK6Ud3",
+            "symbol": "SRM-USDC",
+            "name": "Saros SRM-USDC Saros LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/2AoPCx1Yc8cJB6V3ouMyPeVgFpMoQBA79qWwUFrK6Ud3/icon.png",
+            "decimals": 2,
+            "chainId": 101,
+            "extensions": {
+                "twitter": "https://twitter.com/saros_finance",
+                "source": "saros",
+                "website": "https://saros.finance/pool/EES7FrujZo64YD4Y1k64m1sLk8nmdH2NT8tcvrnX8gjN",
+                "underlyingTokens": [
+                    "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+                    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+                ],
+                "pool": "EES7FrujZo64YD4Y1k64m1sLk8nmdH2NT8tcvrnX8gjN",
+                "token0Img": "https://coin98.s3.amazonaws.com/Sz0MHx1z5jfUYTQD",
+                "token1Img": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+                "description": "Saros LP token between Serum and USD Coin"
             }
         },
         {
